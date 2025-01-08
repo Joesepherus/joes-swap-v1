@@ -1,0 +1,8 @@
+{
+  "plugins": ["prettier-plugin-solidity"],
+  "solidity": {
+    "parser": "solidity"
+  }
+}
+
+
